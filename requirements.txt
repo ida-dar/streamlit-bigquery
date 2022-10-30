@@ -1,0 +1,14 @@
+google-api-python-client==2.65.0
+google-auth==2.13.0
+google-auth-httplib2==0.1.0
+google-auth-oauthlib==0.7.0
+google-cloud==0.34.0
+google-cloud-bigquery==3.3.5
+google-cloud-bigquery-storage==2.16.2
+google-cloud-core==2.3.2
+google-cloud-storage==2.5.0
+oauthlib==3.2.2
+pandas==1.5.1
+plotly==5.11.0
+streamlit==1.14.0
+streamlit-option-menu==0.3.2
