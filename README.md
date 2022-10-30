@@ -14,7 +14,7 @@ https://ida-dar-streamlit-bigquery-main-uzu67o.streamlitapp.com/
 ### Run the app
 ```
 # terminal
-streamlit run app.py
+streamlit run main.py
 
 # quit
 ctrl-c
