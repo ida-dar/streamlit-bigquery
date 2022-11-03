@@ -3,8 +3,8 @@
 Simple app listing selected public [BigQuery datasets](https://cloud.google.com/bigquery/public-data#sample_tables).
 
 ### Used tech
- * python 3.9
- * streamlit
+ * python - 3.9
+ * streamlit - 1.14.0
  * streamlit-option-menu
  * bigquery API
 
