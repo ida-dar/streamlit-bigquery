@@ -1,6 +1,14 @@
 # streamlit-bigquery
 
-Simple app listing selected public [BigQuery datasets](https://cloud.google.com/bigquery/public-data#sample_tables).
+Simple app listing selected public [BigQuery datasets](https://cloud.google.com/bigquery/public-data#sample_tables). Currently, it is possible to list the following datasets:
+* gsod
+* github_nested
+* github_timeline
+* natality
+* shakespeare
+* trigrams
+* wikipedia
+
 
 ### Used tech
  * python - 3.9
